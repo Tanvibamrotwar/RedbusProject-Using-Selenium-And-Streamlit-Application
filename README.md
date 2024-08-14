@@ -1,6 +1,6 @@
 # REDBUS PROJECT-Redbus Data Scraping with Selenium & Dynamic Filtering using Streamlit
 
-** PROJECT STATEMENT:
+### PROJECT STATEMENT:
 The "Redbus Data Scraping and Filtering with Streamlit Application" aims to revolutionize the transportation industry by providing a comprehensive solution for collecting, 
 analyzing, and visualizing bus travel data. By utilizing Selenium for web scraping, this project automates the extraction of detailed information from Redbus, including bus routes, 
 schedules, prices, and seat availability. By streamlining data collection and providing powerful tools for data-driven decision-making, 
@@ -16,9 +16,10 @@ Data Set Requirements & Explanation:
 ●	Python (jupyter)
 ●	Interactive Application
 
- ** Data Set Explanation:
-**The scraped dataset for this project contained detailed information about bus services available on Redbus, the fields are:
-  Bustype,Bus RouteName, Bus RouteLink, Price, Seat availability,Departing Time, ReachingTime,Duration 
+### Data Set Explanation:
+   The scraped dataset for this project contained detailed information about bus services available on Redbus, the fields are:
+   Bustype,Bus RouteName, Bus RouteLink, Price, Seat availability,Departing Time, ReachingTime,Duration 
+
 ## Approach :
 ### 1) Data scapping using selenium and cleaning:
     First we installed all the important packages we need .like panadas,selenium(keys,web DriverWait,By,expected conditions),time
