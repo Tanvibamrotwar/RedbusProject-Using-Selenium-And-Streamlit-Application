@@ -39,8 +39,7 @@ this project can significantly improve operational efficiency and strategic plan
        2) Then we configure the web application page according to how we want to build.
        3) we set the connection between MySQL and Python using the specific database we created earlier. 
        4) we write filtration code based on Routename, Bus type, price ,star rating, and Seat availability.
-       5) we write code for
-       retrieved data displayed in a table format when the user provides input.
+       5) we write code for retrieved data displayed in a table format when the user provides input.
 ## How to run streamlit code:
       In your IDE terminal type:**streamlit run redapp.py(your file name like here redapp.py)**
 ## The solution can be applied to various business scenarios including:
