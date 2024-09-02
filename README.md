@@ -29,7 +29,7 @@ this project can significantly improve operational efficiency and strategic plan
      3) Then we write the code for scrapping the data for the corresponding state link we provide, followed by gathering all bus routes,bus routes name ,Route link,
         and all the bus information.
      4) The scrapped data we stored in a CSV file with a state name.
-     5) like this we scrapped each 17 state bus details, each stored corresponding to each state CSV files
+     5) like this we scrapped each 17 state bus details, each data stored corresponding to each state CSV files
      6) The all CSV file content, we put in one CSV file.
      7) The workflow continues by establishing a connection between Python and a MYSQL database.
      8) In MySQL we create one database and in that database, we create one table, and in that table, we insert the CSV file data.
